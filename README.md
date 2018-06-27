@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-master test
+test
 
 You can use the [editor on GitHub](https://github.com/AngeloEyez/Matriz-MatrixBOMTool/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
