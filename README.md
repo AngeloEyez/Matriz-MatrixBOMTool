@@ -1,3 +1,9 @@
+---
+layout: default
+title: Matriz MatrizBOMTool
+logo: https://angeloeyez.github.io/Matriz-MatrixBOMTool/assets/matriz.png
+---
+
 ## Welcome to GitHub Pages
 
 test
