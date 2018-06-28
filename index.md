@@ -40,4 +40,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Matriz? Check out our [documentation](https://github.com/AngeloEyez/Matriz-MatrixBOMTool/wiki) for solutions.
+
 有遇到問題嗎? 可以參考 [文件說明](https://github.com/AngeloEyez/Matriz-MatrixBOMTool/wiki)
