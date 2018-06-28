@@ -24,7 +24,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% include badge.html %}
         {% if site.github.is_project_page %}
-        <p class="view">ttt</p>
+        <p class="view">Designed for Internal use only.</p>
         {% endif %}
 
         {% if site.github.is_user_page %}
@@ -34,6 +34,7 @@
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.releases_url }}">Download <strong>Release</strong></a></li>
+          <li><a href="{{ site.github.wiki_url }}">Documents <strong>Wiki</strong></a></li>
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
