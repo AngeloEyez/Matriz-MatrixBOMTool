@@ -2,43 +2,23 @@
 layout: default
 title: Matriz - Matrix BOM Tool
 ---
-## Matriz
-The Matrix BOM tool box for internal use.
+# Matriz
+Matriz是一個處理Matrix BOM的工具 
 
-Find more information o [editor on GitHub](https://github.com/AngeloEyez/Matriz-MatrixBOMTool/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Feature
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. 將 OEM/ODM BOM 轉為 Matrix BOM 格式. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Revision History
+### v1.0 (TBD)
+- 調整 Matrix BOM 格式以通過 Agile 系統驗證. ⚠️
+- 隱藏操作中的 Excel 視窗.
 
-```markdown
-Syntax highlighted code block
+### v0.9 (2018-06-10)
+- Initial release.
 
-# Header 1
-## Header 2
-### Header 3
+# Support or Contact
+有遇到問題嗎? 請先參考 FAQ
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AngeloEyez/Matriz-MatrixBOMTool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Matriz? Check out our [documentation](https://github.com/AngeloEyez/Matriz-MatrixBOMTool/wiki) for solutions.
-
-有遇到問題嗎? 可以參考 [文件說明](https://github.com/AngeloEyez/Matriz-MatrixBOMTool/wiki)
+如果仍然有無法解決的問題，歡迎 [提出issue](https://github.com/github/metadata-example/issues) ，但不保證一定能解決 :)
