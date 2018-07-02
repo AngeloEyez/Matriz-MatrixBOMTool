@@ -19,25 +19,30 @@ Matriz是一個處理Matrix BOM的工具
 - 調整 layout, 增加 imput BOM 需求說明
 
 
+### v0.9 (2018-06-10)
+- Initial release.
+
+
+
+
+### v0.9 (2018-06-10)
+- Initial release.
+
+
+### v0.9 (2018-06-10)
+- Initial release.
+
+
+
+### v0.9 (2018-06-10)
+- Initial release.
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### v0.9 (2018-06-10)
+- Initial release.
 
 
 
@@ -53,7 +58,7 @@ Matriz是一個處理Matrix BOM的工具
 - Initial release.
 
 # FAQ
-### OEM/ODM BOM格式需求
+### - OEM/ODM BOM格式需求
 Matriz會確認輸入BOM的格式，以確保可以取得正確資訊，輸入的 OEM/ODM BOM 必須滿足以下條件： 
 1. 包含這些 sheets，大小寫必須符合
  - ALL
