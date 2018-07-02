@@ -18,6 +18,37 @@ Matriz是一個處理Matrix BOM的工具
 - 隱藏操作中的 Excel 視窗.
 - 調整 layout, 增加 imput BOM 需求說明
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### v0.9 (2018-06-10)
 - Initial release.
 
