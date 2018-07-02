@@ -11,10 +11,12 @@ Matriz是一個處理Matrix BOM的工具
 
 
 # Revision History
-### v1.0 (TBD)
+### v1.0.0.0 (TBD)
 - 調整 Matrix BOM 格式以通過 Agile 系統驗證. ⚠️
-- 隱藏操作中的 Excel 視窗.
 - 大幅加速 OEM BOM 處理時間.
+- 增加 Help menu / About Dialog / FAQ link
+- 隱藏操作中的 Excel 視窗.
+- 調整 layout, 增加 imput BOM 需求說明
 
 ### v0.9 (2018-06-10)
 - Initial release.
