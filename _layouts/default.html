@@ -15,7 +15,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}" target="_blank">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -33,9 +33,9 @@
 
         {% if site.show_downloads %}
         <ul class="downloads">
-          <li><a href="{{ site.github.releases_url }}" target="_blank">Download <strong>Release</strong></a></li>
+          <li><a href="{{ site.github.releases_url }}">Download <strong>Release</strong></a></li>
           <li><a href="#FAQ">Documents <strong>FAQ</strong></a></li>
-          <li><a href="{{ site.github.issues_url }}" target="_blank">Raise <strong>Issue</strong></a></li>
+          <li><a href="{{ site.github.issues_url }}">Raise <strong>Issue</strong></a></li>
         </ul>
         {% endif %}
       </header>
@@ -46,10 +46,10 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}" target="_blank">{{ site.github.owner_name }}</a></p>
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         {% include beer.html %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist" target="_blank">orderedlist</a></small></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
@@ -63,5 +63,8 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+    <script>
+      $(document.links).filter(function() {return this.hostname != window.location.hostname;}).attr('target', '_blank');
+    </script>
   </body>
 </html>
