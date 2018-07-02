@@ -42,6 +42,6 @@ Matriz會確認輸入BOM的格式，以確保可以取得正確資訊，輸入�
 
 
 # Support or Contact
-有遇到問題嗎? 請先參考 [FAQ](#FAQ)
+有遇到問題嗎? 請先參考 [FAQ](#faq)
 
 如果仍然有無法解決的問題，歡迎 [提出issue](https://github.com/AngeloEyez/Matriz-MatrixBOMTool/issues)，但不保證一定能解決 :)
