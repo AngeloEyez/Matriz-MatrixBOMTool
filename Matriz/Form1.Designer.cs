@@ -62,7 +62,7 @@
             this.Status1.Name = "Status1";
             this.Status1.Size = new System.Drawing.Size(408, 15);
             this.Status1.TabIndex = 10;
-            this.Status1.Text = "Please Add BOMs to analysis and click Go.";
+            this.Status1.Text = "Please click Go to Select BOM to convert.";
             // 
             // btn_Go
             // 
@@ -164,7 +164,7 @@
             this.MinimumSize = new System.Drawing.Size(454, 200);
             this.Name = "BOMAnalysisForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            this.Text = "Melissa BOM Analysis Tool";
+            this.Text = "Matriz";
             this.Load += new System.EventHandler(this.BOMAnalysisForm_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
